@@ -1,0 +1,7 @@
+C:\H\Development\Projects\H4\H4\bin\Debug\H4.exe.config
+C:\H\Development\Projects\H4\H4\bin\Debug\H4.exe
+C:\H\Development\Projects\H4\H4\bin\Debug\H4.pdb
+C:\H\Development\Projects\H4\H4\obj\Debug\H4.csprojAssemblyReference.cache
+C:\H\Development\Projects\H4\H4\obj\Debug\H4.csproj.CoreCompileInputs.cache
+C:\H\Development\Projects\H4\H4\obj\Debug\H4.exe
+C:\H\Development\Projects\H4\H4\obj\Debug\H4.pdb
